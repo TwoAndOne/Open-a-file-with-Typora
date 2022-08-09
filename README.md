@@ -10,3 +10,4 @@ Alfred workflow: Open a file in a folder with some software
 
 效果：
 
+![](https://github.com/TwoAndOne/Open-a-file-with-Typora/blob/main/pic.png)
